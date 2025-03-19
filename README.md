@@ -44,12 +44,13 @@ Here are some ideas to get you started:
 This is a small game I created for fun! It's a casual project where I experimented with C# & Unity.  
 - **[Play the Game](https://play.unity.com/en/games/2e112adc-236d-4a71-acfb-29c5d3d8164e/mca2-kaichun-lee-kenny)**  
 - A brief description: This game is a collection games with 3 levels
+<!--
 [![Game Screenshot](https://raw.githubusercontent.com/Kenny48620/Kenny48620/main/image/small-game-screenshot-l1.jpg)](https://play.unity.com/en/games/2e112adc-236d-4a71-acfb-29c5d3d8164e/mca2-kaichun-lee-kenny)
-
+-->
 
 <!-- Size of screen shot -->
 <a href="https://play.unity.com/en/games/2e112adc-236d-4a71-acfb-29c5d3d8164e/mca2-kaichun-lee-kenny">
-  <img src="https://raw.githubusercontent.com/Kenny48620/Kenny48620/main/image/small-game-screenshot-l1.jpg" alt="Game Screenshot" width="800" />
+  <img src="https://raw.githubusercontent.com/Kenny48620/Kenny48620/main/image/small-game-screenshot-l1.jpg" alt="Game Screenshot" width="600" />
 </a>
 
 
