@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 -->
 
 
-## 👋 Hey there, I'm Kenny
+## 👋 Hey there, I'm Ken
 
-> I'm a creative developer who loves to explore the world of code! I enjoy solving complex problems, pushing technical boundaries, and thinking outside the box.
+> Software Engineer focused on backend development, distributed systems, and scalable system design.  
+> I enjoy building reliable services, solving complex algorithmic problems, and turning ideas into production-ready software.
 >
-> Actively seeking opportunities in the software development field and eagerly embracing new challenges.
+> Actively seeking software engineering opportunities where I can contribute to building robust, high-impact systems.
 
 
 
@@ -37,8 +38,8 @@ Here are some ideas to get you started:
 -->
 
 ## 📫 Feel free to contact me!
-- **Email:** [lee.kennyus@gmail.com](mailto:lee.kennyus@gmail.com)
-- **LinkedIn:** [KennyLee](https://www.linkedin.com/in/kaichunlee/)
+- **Email:** [ken.swe.us@gmail.com](mailto:ken.swe.us@gmail.com)
+- **LinkedIn:** [KenLee](https://www.linkedin.com/in/kenleeus/)
 
 ## 🎮 My Little Game
 This is a small game I created for fun! It's a casual project where I experimented with C# & Unity.  
